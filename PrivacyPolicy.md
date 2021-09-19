@@ -27,4 +27,4 @@ If you have any questions about this Privacy Policy, You can contact with me:
 
 By email: liubomyr.kozak@gmail.com
 
-for any issue or idea you use github in tab "issue".
+For any issue or idea you can use github in tab "issue".
