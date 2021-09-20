@@ -2,7 +2,7 @@
 
 ### This is Public Page of chrome extension WordBerry.
 
-Dear user if you have an idea or get issue and you use guthub as well, you can use "issue" tab fir created bug request.
+Dear user if you have an idea or get issue and you are user of guthub, press "issue" tab for created bug or feature request.
 
 Curernt version is 2.1.0
 
